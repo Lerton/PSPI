@@ -1,0 +1,22 @@
+lnowak@p210-5:~$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/studpoz/lnowak/.ssh/id_rsa): 
+Created directory '/home/studpoz/lnowak/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/studpoz/lnowak/.ssh/id_rsa.
+Your public key has been saved in /home/studpoz/lnowak/.ssh/id_rsa.pub.
+The key fingerprint is:
+90:bd:c6:79:15:1f:d6:0c:cb:1b:59:f5:c3:60:6d:78 lnowak@p210-5
+The key's randomart image is:
++--[ RSA 2048]----+
+|            .o*++|
+|       o    .*oE+|
+|      o .   . Oo.|
+|       o o .   o.|
+|        S .   .  |
+|       . .       |
+|                 |
+|                 |
+|                 |
++-----------------+
